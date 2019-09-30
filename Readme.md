@@ -1,1 +1,3 @@
-This Bot came into play to help freshers for various needs which they require and sometime hesitate to ask or difficulty kowing about the place  
+# Fresher-friendly Bot
+
+This Bot's main purpose is to help fulfill various needs of freshers by providing them with suggestions.Its features would include location of the hangout areas of different clubs and their timings. Location of laundry, hospital, post office, restaurants, etc. Timings of mess, course related details. Its active features would include live tracking of mail/parcels ordered to be recieved in the college in the future and an up to date festival brochure that would give suggestions of nearby college fests and competitions.
