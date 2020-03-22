@@ -1,6 +1,6 @@
 import requests as requests
 
-url = "https://api.telegram.org/bot893221467:AAG0_qpQIn7KNzmYipeosXfSC6c39e1g-Xg/"
+url = "https://api.telegram.org/bot(BOT_TOKEN)/"
 
 # get chat id
 def get_chat_id(update):
@@ -39,7 +39,7 @@ def main():
             elif get_message_text(update).lower() == "mess":
                 send_message(get_chat_id(update), 'Sahaydri Mess: Breakfast 7:15 to 8:15 Lunch 12:15 to 13:15')
             elif get_message_text(update).lower() == "car pool":
-                send_message(get_chat_id(update), 'Car Pool office is just after the Kripa hospital Contact No:9446407300')
+                send_message(get_chat_id(update), 'Car Pool office is just after the Kripa hospital Contact No:94XXXXXXXX')
             else:
                 send_message(get_chat_id(update), "I did not get you:(")
             update_id += 1
