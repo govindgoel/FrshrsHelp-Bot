@@ -1,6 +1,6 @@
 import requests as requests
 
-url = "https://api.telegram.org/bot893221467:AAG0_qpQIn7KNzmYipeosXfSC6c39e1g-Xg/"
+url = "https://api.telegram.org/bot(BOT_TOKEN)/"
 
 # get chat id
 def get_chat_id(update):
@@ -37,6 +37,7 @@ def main():
             if get_message_text(update).lower() == "/start":
                 send_message(get_chat_id(update),'Hello I can help you with following:\n 1. Type mess - To get mess timings \n 2. Type hostel - To get hostel timings \n 3. Type clubs - To get details of various clubs in college \n 4. Type hospital - To get hospital timings \n 5.Type car - To get car pool office details \n 6.Type stay - To get accomodation details in ashram \n 7.Type atm - To get ATM facility details  \n 🛠 Developed And Maintined By:Govind Goel')
             elif get_message_text(update).lower() == "mess":
+<<<<<<< HEAD
                 send_message(get_chat_id(update), 'Sahaydri Mess: Breakfast 7:15 to 8:15 \n Lunch 12:15 to 13:15 \n Dinner: 20:15 to 21:15')
             elif get_message_text(update).lower() == "car":
                 send_message(get_chat_id(update), 'Car Pool office is just after the Kripa hospital \n Contact No: To be Updated')
@@ -51,6 +52,11 @@ def main():
             elif get_message_text(update).lower() == "atm":
                 send_message(get_chat_id(update), 'Dhanlaxmi bank ATM is present on the way of you take left just before the Indian accomodation office ')
 
+=======
+                send_message(get_chat_id(update), 'Sahaydri Mess: Breakfast 7:15 to 8:15 Lunch 12:15 to 13:15')
+            elif get_message_text(update).lower() == "car pool":
+                send_message(get_chat_id(update), 'Car Pool office is just after the Kripa hospital Contact No:94XXXXXXXX')
+>>>>>>> 8b09c72fa72aa19be5e0797d2582efc42cf52aed
             else:
                 send_message(get_chat_id(update), "I did not get you:(")
             update_id += 1
