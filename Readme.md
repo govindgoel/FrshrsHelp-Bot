@@ -3,7 +3,7 @@
 <img src="https://miro.medium.com/max/300/1*YVTFl1UEkt3_rkez-DIU9w.png">
 </p>
 <p align="center">
-<img src="">
+<img src="https://raw.githubusercontent.com/govindgoel/FrshrsHelp-Bot/master/photo_2020-03-26_00-44-53.jpg?token=AMTGGNYMXLAXCX6757AN2K26QTUGQ">
 </p>
 <ul>
   <li>This Bot's main purpose is to fulfill various needs of freshers by providing them with suggestions.</li>
