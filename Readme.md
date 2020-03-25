@@ -2,6 +2,9 @@
 <p align="center">
 <img src="https://miro.medium.com/max/300/1*YVTFl1UEkt3_rkez-DIU9w.png">
 </p>
+<p align="center">
+<img src="">
+</p>
 <ul>
   <li>This Bot's main purpose is to fulfill various needs of freshers by providing them with suggestions.</li>
   <li>Its features would include opportunities in different college clubs and their fields.</li>
