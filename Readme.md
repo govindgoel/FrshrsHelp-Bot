@@ -1,6 +1,6 @@
 # Freshers-friendly Bot
 <p align="center">
-![](https://miro.medium.com/max/300/1*YVTFl1UEkt3_rkez-DIU9w.png)
+![ ](https://miro.medium.com/max/300/1*YVTFl1UEkt3_rkez-DIU9w.png)
 </p>
 <ul>
   <li>This Bot's main purpose is to fulfill various needs of freshers by providing them with suggestions.</li>
