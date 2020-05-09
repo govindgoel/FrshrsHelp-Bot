@@ -12,7 +12,7 @@
   <li>Timings of mess, course related details.</li>
   <li>Its active features would include live tracking of mail/parcels ordered to be recieved in the college in the future.</li>   <li>An up to date festival brochure that would give suggestions of nearby college fests and competitions.</li>
 <ul>
-  <br>
-<p>
-## Deployed on `Heroku` as a Docker Image.
-</p>
+<br>
+
+
+# Deployed on `Heroku` as a Docker Image.
