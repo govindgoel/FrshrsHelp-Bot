@@ -14,5 +14,5 @@
 <ul>
   <br>
 <p>
-Deployed on Heroku with a Docker Image.
+## Deployed on `Heroku` as a Docker Image.
 </p>
